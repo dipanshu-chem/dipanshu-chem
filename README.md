@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm Dipanshu Ranjan Pattanayak 👋
 
-<!--
-**dipanshu-chem/dipanshu-chem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- M.Sc. Chemistry graduate
+- Interested in Computational Chemistry, Molecular Dynamics, DFT/TD-DFT, Spectroscopy, Electrochemistry, and Energy Materials
+- Exploring AI applications in Chemistry and Molecular Modeling
+- Interested in battery materials, photochemistry, biomolecular simulations, and excited-state processes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Computational Chemistry
+- Quantum Chemistry
+- Molecular Dynamics Simulations
+- Spectroscopy
+- Energy Storage Materials
+- Photochemistry
+- Electrochemistry
+- AI for Chemistry
+
+---
+
+## Tools & Software
+- GROMACS
+- Gaussian (09/16)
+- GaussView
+- Avogadro
+- VMD
+- ChemDraw
+- Origin
+- Autodock vina
+- Pymol
+- Autodocktools
+- Ovito
+
+---
+
+## Current Focus
+- DFT and TD-DFT studies
+- Molecular interaction analysis
+- Energy materials and sodium-ion battery systems
+- Biomolecular simulations
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/dipanshu-ranjan-pattanayak/
+- Email: dipansuranjan2004@gmail.com
